@@ -2,11 +2,19 @@
   "groups": {
     "default": {
       "packages": [
-        "package.json",
+        "package.json"
+      ]
+    },
+    "AB": {
+      "packages": [
         "packages/packageA/package.json",
-        "packages/packageB/package.json",
+        "packages/packageB/package.json"
+      ]
+    },
+    "C": {
+      "packages": [
         "packages/packageC/package.json"
       ]
-    }
+    } 
   }
 }
