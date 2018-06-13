@@ -1,0 +1,22 @@
+{
+  "name": "package-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'test'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mobx": "^5.0.2",
+    "mobx-state-tree": "^2.1.0",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "gk-test-a": "^8.5.0",
+    "husky": "^0.14.3",
+    "rimraf": "^2.6.2"
+  }
+}

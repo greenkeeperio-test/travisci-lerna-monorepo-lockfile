@@ -1,0 +1,20 @@
+{
+  "name": "package-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'test'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "neighbourhoodie-test-package": "^29.0.0",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.3.2",
+    "ava": "^0.25.0",
+    "gk-test-b": "^8.5.0"
+  }
+}
