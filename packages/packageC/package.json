@@ -15,6 +15,6 @@
   "devDependencies": {
     "@types/node": "^10.3.2",
     "ava": "^0.25.0",
-    "gk-test-b": "^8.5.0"
+    "gk-test-b": "^9.0.0"
   }
 }
