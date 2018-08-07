@@ -10,11 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "neighbourhoodie-test-package": "^29.0.0",
-    "ramda": "^0.25.0"
+    "ramda": "0.25.0"
   },
   "devDependencies": {
+    "@angular/cli": "6.1.2",
+    "@angular/common": "6.1.1",
     "@types/node": "^10.3.2",
-    "ava": "^0.25.0",
-    "gk-test-b": "^8.5.0"
+    "ava": "0.25.0",
+    "codelyzer": "4.4.2",
+    "gk-test-b": "^8.5.0",
+    "stylelint": "9.3.0"
   }
 }
