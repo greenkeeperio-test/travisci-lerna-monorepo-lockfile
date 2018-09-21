@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "mobx": "^5.0.2",
-    "mobx-state-tree": "^2.1.0",
+    "mobx-state-tree": "^3.4.0",
     "ramda": "^0.25.0"
   },
   "devDependencies": {
