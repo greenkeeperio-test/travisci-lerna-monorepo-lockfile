@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "neighbourhoodie-test-package": "^29.0.0",
+    "neighbourhoodie-test-package": "^49.1236.0",
     "ramda": "0.25.0"
   },
   "devDependencies": {
