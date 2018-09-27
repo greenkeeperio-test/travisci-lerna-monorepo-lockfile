@@ -19,6 +19,6 @@
     "ava": "0.25.0",
     "codelyzer": "4.4.2",
     "gk-test-b": "^8.5.0",
-    "stylelint": "9.3.0"
+    "stylelint": "9.6.0"
   }
 }
