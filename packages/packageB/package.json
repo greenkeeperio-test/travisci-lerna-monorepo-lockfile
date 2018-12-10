@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "date-fns": "^1.29.0",
+    "date-fns": "^1.30.1",
     "electron": "^2.0.2",
     "gk-test-c": "^8.5.0",
     "mobx": "^5.0.2",
